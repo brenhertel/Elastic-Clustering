@@ -1,7 +1,7 @@
 # Elastic-Clustering
  Implementation of elastic clustering 
 
-Corresponding paper can be found for free (COMING SOON), please read for method details.
+Corresponding paper can be found for free [here](https://arxiv.org/abs/2404.18383), please read for method details.
 
 Several methods exist for teaching robots, with one of the most prominent being Learning from Demonstration (LfD). If a primitive skill is demonstrated, it can be immediately encoded. However, robots must remember multiple skills to be pulled from at will. In order to differentiate demonstrations, we cluster similar primitives together. Similar skills are put in the same cluster, such that if a reproduction of that skill is required, one or more demonstrations can be recalled.
 
